@@ -87,7 +87,7 @@
 // };
 
 // export default Footer;
-import React from 'react';
+
 import deepnetsoft from '../assets/deepnetsoft.png';
 import socialmedia from '../assets/socialmedia.png';
 import call from '../assets/call.png';
