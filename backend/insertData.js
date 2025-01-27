@@ -5,7 +5,7 @@ const Item = require('./item'); // Change to require
 const connectDB = async () => {
     try {
       await mongoose.connect(
-        'mongodb+srv://rajeshjadhav1729:iPbgpHhVeRH3Nmsb@cluster0.uhqvp.mongodb.net/restaurantDB?retryWrites=true&w=majority'
+        ''
       );
       console.log('MongoDB connected');
     } catch (err) {
